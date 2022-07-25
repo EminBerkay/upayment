@@ -2,6 +2,8 @@
 
 upayment
 
+Video : https://www.youtube.com/shorts/1zhO-OAr-4A
+
 Android note: Please start with android studio, firebase and redux are used.
 
 Android home: https://ibb.co/CWBmDLF
