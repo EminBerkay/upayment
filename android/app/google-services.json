@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "586619633053",
+    "project_id": "upayments-8653e",
+    "storage_bucket": "upayments-8653e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586619633053:android:d8f139f9f774243d224374",
+        "android_client_info": {
+          "package_name": "com.upayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586619633053-1i9m0jmbn26paanlejlo32gbpbikjism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreuBszZNO36bCkw3nE-QmqeZPJuZnd3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586619633053-1i9m0jmbn26paanlejlo32gbpbikjism.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586619633053-tdqgj2k4vnelct4or8i1h88fbihch9nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.upayment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

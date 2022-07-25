@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">586619633053-1i9m0jmbn26paanlejlo32gbpbikjism.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">586619633053</string>
+    <string name="google_api_key" translatable="false">AIzaSyDreuBszZNO36bCkw3nE-QmqeZPJuZnd3A</string>
+    <string name="google_app_id" translatable="false">1:586619633053:android:d8f139f9f774243d224374</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDreuBszZNO36bCkw3nE-QmqeZPJuZnd3A</string>
+    <string name="google_storage_bucket" translatable="false">upayments-8653e.appspot.com</string>
+    <string name="project_id" translatable="false">upayments-8653e</string>
+</resources>
