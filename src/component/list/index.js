@@ -43,7 +43,7 @@ const index = (props) => {
              {
                loading 
                ? <ActivityIndicator size={"small"} color={"grey"}/>
-               : <Text style={{color:"grey", fontWeight:"600"}}>Load more..</Text>
+               : <Text style={{color:"grey", fontWeight:"600"}}>Load more....</Text>
              }
           </TouchableOpacity>
         )
